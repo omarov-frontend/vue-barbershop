@@ -125,8 +125,8 @@
         </article>
     </div>
 
-            <!-- footer -->
-            <app-footer />
+    <!-- footer -->
+    <app-footer />
             
    
   </div>
