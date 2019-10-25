@@ -127,8 +127,6 @@
 
     <!-- footer -->
     <app-footer />
-            
-   
   </div>
 </template>
 
